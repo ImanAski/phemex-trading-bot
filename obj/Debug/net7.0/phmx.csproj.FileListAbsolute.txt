@@ -1,0 +1,15 @@
+E:\Programming\dotnet\phmx\bin\Debug\net7.0\phmx.exe
+E:\Programming\dotnet\phmx\bin\Debug\net7.0\phmx.deps.json
+E:\Programming\dotnet\phmx\bin\Debug\net7.0\phmx.runtimeconfig.json
+E:\Programming\dotnet\phmx\bin\Debug\net7.0\phmx.dll
+E:\Programming\dotnet\phmx\bin\Debug\net7.0\phmx.pdb
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.csproj.AssemblyReference.cache
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.AssemblyInfoInputs.cache
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.AssemblyInfo.cs
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.csproj.CoreCompileInputs.cache
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.dll
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\refint\phmx.dll
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.pdb
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\phmx.genruntimeconfig.cache
+E:\Programming\dotnet\phmx\obj\Debug\net7.0\ref\phmx.dll
